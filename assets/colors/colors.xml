@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary300">#F7B27A</color>
+    <color name="primary400">#F38744</color>
+    <color name="gray50">#F9FAFB</color>
+    <color name="gray100">#F2F4F7</color>
+    <color name="gray200">#EAECF0</color>
+    <color name="gray300">#D0D5DD</color>
+    <color name="gray500">#667085</color>
+    <color name="gray600">#475467</color>
+
+</resources>
